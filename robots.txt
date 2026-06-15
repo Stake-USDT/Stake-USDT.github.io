@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-Disallow: /stake-usdt/
-Sitemap: https://stake-usdt.github.io/sitemap.xml
