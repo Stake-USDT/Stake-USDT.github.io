@@ -1,0 +1,107 @@
+{
+ "keyword": "stake usdt",
+ "h1": "Stake USDT",
+ "brand": "Aave",
+ "niche": "stake",
+ "verb": "Stake",
+ "title": "Stake USDT - Open Aave App",
+ "meta_description": "stake usdt on Aave by supplying USDT to a liquidity market; review live rates, network, and risks before opening the app.",
+ "palette": {
+  "mode": "light",
+  "bg": "#E2E0FF",
+  "accent": "#9896FF",
+  "ink": "#211D1D"
+ },
+ "hero_h2": "Put stablecoin liquidity to work in a live market",
+ "hero_lead": "stake usdt routes a stablecoin balance into an Aave supply market where interest is variable, on-chain, and dependent on the selected network and reserve.",
+ "badge": "DeFi",
+ "widget": {
+  "from": "USDT",
+  "from_net": "Ethereum",
+  "to": "aUSDT position",
+  "to_net": "Aave V3",
+  "action": "Open Aave App"
+ },
+ "trust": [
+  "Aave V3 app",
+  "Non-custodial protocol",
+  "Variable supply APY"
+ ],
+ "what_is": "Aave is a decentralized non-custodial liquidity protocol where users can supply assets to markets and earn variable interest; for USDT, this is lending-market participation, not native proof-of-stake. Read the <a href=\"https://aave.com/docs\">Aave documentation</a> before connecting a wallet.",
+ "how": [
+  {
+   "t": "Open the app",
+   "d": "Go to app.aave.com and connect a supported wallet on the network that holds your USDT."
+  },
+  {
+   "t": "Pick the reserve",
+   "d": "Select the USDT market, confirm the reserve is active, and review the live supply APY, liquidity, and risk details in the interface."
+  },
+  {
+   "t": "Approve and supply",
+   "d": "Approve the ERC-20 spend or use permit if available, then confirm the supply transaction from your wallet."
+  },
+  {
+   "t": "Track or withdraw",
+   "d": "Monitor the position in Aave and withdraw when desired, subject to available liquidity and network fees."
+  }
+ ],
+ "points": [
+  {
+   "h": "Market-based yield",
+   "p": "USDT does not have native validator staking; Aave supply returns come from borrower demand and protocol market parameters."
+  },
+  {
+   "h": "On-chain controls",
+   "p": "Aave markets use smart contracts, so wallet approvals, chain selection, and transaction review matter before funds move."
+  },
+  {
+   "h": "Verify the asset",
+   "p": "Check issuer and network information such as <a href=\"https://tether.to/en/transparency/\">Tether transparency</a> before transferring stablecoins."
+  }
+ ],
+ "eeat": [
+  {
+   "text": "Aave documentation",
+   "url": "https://aave.com/docs"
+  },
+  {
+   "text": "Tether transparency",
+   "url": "https://tether.to/en/transparency/"
+  },
+  {
+   "text": "Ethereum stablecoins",
+   "url": "https://ethereum.org/en/stablecoins/"
+  }
+ ],
+ "faq": [
+  {
+   "q": "Can I stake usdt natively?",
+   "a": "No. USDT is a stablecoin, not a proof-of-stake asset; on Aave, users supply USDT to a liquidity market and may earn variable interest.",
+   "open": true
+  },
+  {
+   "q": "How do I stake usdt through Aave?",
+   "a": "Open the official app, connect a wallet, choose the USDT reserve, review live terms, approve the token, and confirm the supply transaction.",
+   "open": false
+  },
+  {
+   "q": "Is stake usdt yield fixed?",
+   "a": "No. Aave supply APY is variable and can change with utilization, market conditions, and governance-approved parameters shown in the app.",
+   "open": false
+  },
+  {
+   "q": "What risks matter before I stake usdt?",
+   "a": "Consider smart contract risk, stablecoin issuer risk, liquidity availability, network fees, wallet approvals, and regional access limits.",
+   "open": false
+  },
+  {
+   "q": "Which network should I use to stake usdt?",
+   "a": "Use the network where your USDT is available and where Aave lists an active reserve; verify the selected chain inside the app before signing.",
+   "open": false
+  }
+ ],
+ "official_url": "https://app.aave.com/",
+ "official_domain": "app.aave.com",
+ "footer_note": "Not the official Aave app; verify app.aave.com before connecting a wallet. Educational only, not financial advice."
+}
