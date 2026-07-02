@@ -1,3 +1,4 @@
 User-agent: *
 Allow: /
+
 Sitemap: https://stake-usdt.github.io/sitemap.xml
